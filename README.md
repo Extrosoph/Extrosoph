@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Extrosoph&show_icons=true&theme=gruvbox)
+
+
 - 👋 Hi, I’m @Extrosoph
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
