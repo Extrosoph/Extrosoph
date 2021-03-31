@@ -2,15 +2,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Extrosoph)](https://github.com/anuraghazra/github-readme-stats)
 
 
-👋 Hi, I’m @Extrosoph
-👀 I’m interested in software development, cycling, piano and Anime
-🌱 I’m currently learning C++, Flask, HTML, CSS, JS, Max for Live, Japanese
-📫 How to reach me:
-Youtube:
-Facebook: 
-Twitter:
-Instagram: 
-LinkedIn:
+* 👋 Hi, I’m @Extrosoph
+* 👀 I’m interested in software development, cycling, piano and Anime
+* 🌱 I’m currently learning C++, Flask, HTML, CSS, JS, Max for Live, Japanese
+* 📫 How to reach me:
+  * Youtube:
+  * Facebook: 
+  * Twitter:
+  * Instagram: 
+  * LinkedIn:
 
 
 <!---
