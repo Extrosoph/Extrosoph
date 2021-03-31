@@ -3,7 +3,7 @@
 
 
 * 👋 Hi, I’m @Extrosoph
-* 👀 I’m interested in software development, cycling, piano and Anime
+* 👀 I’m interested in software development, cycling, piano and **Anime**
 * 🌱 I’m currently learning C++, Flask, HTML, CSS, JS, Max for Live, Japanese
 * 📫 How to reach me:
   * Youtube:
