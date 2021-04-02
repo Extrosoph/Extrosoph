@@ -18,7 +18,7 @@
 
 さんねんせいです。
 
-せこうわ Computer Science です。
+せこうわ Computer Science と Data Science です。
 
 だいがくの University of Western Australia です。
 
