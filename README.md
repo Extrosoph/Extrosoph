@@ -13,10 +13,15 @@
   * LinkedIn: https://www.linkedin.com/in/theoridho-andily-283182186/
 
 こにちわ。
+
 私のなめあえわゼオです。
+
 さんねんせいです。
+
 せこうわ Computer Science です。
+
 だいがくの University of Western Australia です。
+
 よろしくおねがいしませ。
 
 <!---
