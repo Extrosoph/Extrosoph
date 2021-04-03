@@ -12,17 +12,7 @@
   * Instagram: https://www.instagram.com/theoandily/
   * LinkedIn: https://www.linkedin.com/in/theoridho-andily-283182186/
 
-こにちわ。
-
-私のなめあえわゼオです。
-
-さんねんせいです。
-
-せんこうわ Computer Science と Data Science です。
-
-だいがくの University of Western Australia です。
-
-よろしくおねがいしませ。
+こにちは。私のなまえはゼオです。さんねんせいです。私はインドネシアじんです。せんこうはコンピュータサイエンスとデータサイエンスです。だいがくのUniversity of Western Australiaです。にほんごのねいていぶのともだちをさがしています。どうぞよろしくおねがいします。
 
 <!---
 Extrosoph/Extrosoph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
