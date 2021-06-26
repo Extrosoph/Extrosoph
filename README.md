@@ -4,7 +4,7 @@
 
 * 👋 Hi, I’m @Extrosoph
 * 👀 I’m interested in software development, piano, Japanese and games
-* 🌱 I’m currently learning C++, Flask, HTML, CSS, JS, Max for Live, Japanese, This Game(Arr by Animenz), A Cruel`s Angel Thesis(Arr by zzz), Michishirube (Arr by Animenz) and Nocture Op.9 No.2 Chopin
+* 🌱 I’m currently learning Machine Learning in Python, Japanese, This Game(Arr by Animenz), Sincerely, Michishirube (Arr by Animenz) and Nanatsu no Taizai OST
 * 📫 How to reach me:
   * Youtube: https://www.youtube.com/channel/UCvQVevWDXYO_qN4xUIHjmxw
   * Facebook: https://www.facebook.com/theo.andily/
