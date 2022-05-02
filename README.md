@@ -1,8 +1,10 @@
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Extrosoph&show_icons=true&theme=tokyonight)
+</p>
 
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Extrosoph)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 * 👋 Hi, I’m @Extrosoph
 * 👀 I’m interested in data science, anime piano music, Japanese language and culture 
