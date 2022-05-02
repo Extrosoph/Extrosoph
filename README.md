@@ -3,8 +3,8 @@
 
 
 * 👋 Hi, I’m @Extrosoph
-* 👀 I’m interested in software development, piano, Japanese and games
-* 🌱 I’m currently learning Machine Learning in Python, Japanese, This Game(Arr by Animenz), Sincerely, Michishirube (Arr by Animenz) and Nanatsu no Taizai OST
+* 👀 I’m interested in data science, anime piano music, Japanese language and culture 
+* 🌱 I’m currently learning machine learning and natural language processing in Python, Michishirube (Arr by Animenz) and sora no woto on the piano.
 * 📫 How to reach me:
   * Youtube: https://www.youtube.com/channel/UCvQVevWDXYO_qN4xUIHjmxw
   * Facebook: https://www.facebook.com/theo.andily/
