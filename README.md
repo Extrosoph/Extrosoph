@@ -11,7 +11,7 @@
   * Facebook: https://www.facebook.com/theo.andily/
   * Twitter: https://twitter.com/AndilyTheo
   * Instagram: https://www.instagram.com/theoandily/
-  * LinkedIn: https://www.linkedin.com/in/theoridho-andily-283182186/
+  * LinkedIn: [https://www.linkedin.com/in/theoridho-andily-283182186/](https://www.linkedin.com/in/%F0%9F%8E%87-theoridho-andily-%F0%9F%8C%8C-283182186/)
 
 こにちは。私のなまえはゼオです。さんねんせいです。私はインドネシアじんです。せんこうはコンピュータサイエンスとデータサイエンスです。だいがくのUniversity of Western Australiaです。にほんごのねいていぶのともだちをさがしています。どうぞよろしくおねがいします。
 
